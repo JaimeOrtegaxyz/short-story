@@ -1,6 +1,8 @@
 ---
 name: short-story
 description: Generate a short story (under 4,000 characters) narrated in first person, built on two intertwined planes — a visible plot and a secret/symbolic story underneath. Use when the user asks for a short story, a piece of literary fiction, or invokes /short-story.
+metadata:
+  version: "1.0.0"
 ---
 
 # Short Story
