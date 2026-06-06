@@ -2,7 +2,7 @@
 
 A Claude skill that writes literary short fiction — under 4,000 characters, first person, set in a contemporary city that is never named.
 
-![/short-story running in Claude Code — a complete story, "Ninety Days", in a single run](short-story-screenshot.png)
+![/short-story running in Claude Code — a complete story, "Bottle Green", in a single run](short-story-screenshot.png)
 
 ## Where it comes from
 
