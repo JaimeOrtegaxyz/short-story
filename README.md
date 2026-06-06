@@ -19,6 +19,16 @@ Every story is constructed on those two planes:
 
 No twist ending — that's the classic Poe mode. These stories close in the modern register: apparent resolution, plus a residue — a final detail that reorders the meaning if you look at it twice.
 
+## Install
+
+Copy the folder into your skills directory:
+
+```sh
+git clone https://github.com/JaimeOrtegaxyz/short-story.git ~/.claude/skills/short-story
+```
+
+Or into `.claude/skills/short-story/` inside a project to scope it there.
+
 ## Use
 
 Invoke `/short-story` or just ask for a short story. One story per run, ≤4,000 characters including the title. English by default; same rules apply in Spanish on request.
