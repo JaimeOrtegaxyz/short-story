@@ -1,4 +1,4 @@
-# short-story
+# Short Story
 
 A Claude skill that writes literary short fiction — under 4,000 characters, first person, set in a contemporary city that is never named.
 
