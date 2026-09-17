@@ -17,6 +17,8 @@ Every story is constructed on those two planes:
 - **Visible story** — a self-contained moment in an unnamed city: something happens, something changes, something stays latent.
 - **Secret story** — a thematic undercurrent that is never named. It rides a subtle vehicle (an object, a habit, a light, a delay) and gets encoded through gestures, omissions, micro-repetitions, and one small crack in the logic.
 
+- **Casting first** — before the mood, the story settles the occasion and whom it is happening to, the part of the world the unnamed city sits in, a corner of the city from a different sphere of life than the occasion, the other people and what they want, ages and names, the time, and the tone. The narrator is the person the day is happening to, told from inside the event.
+
 No twist ending — that's the classic Poe mode. These stories close in the modern register: apparent resolution, plus a residue — a final detail that reorders the meaning if you look at it twice.
 
 ## Install
